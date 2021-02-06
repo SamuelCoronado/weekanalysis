@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/weekanalysis/static/css/main.4ada5404.chunk.css",
-    "main.js": "/weekanalysis/static/js/main.74517763.chunk.js",
-    "main.js.map": "/weekanalysis/static/js/main.74517763.chunk.js.map",
+    "main.js": "/weekanalysis/static/js/main.1e61c607.chunk.js",
+    "main.js.map": "/weekanalysis/static/js/main.1e61c607.chunk.js.map",
     "runtime-main.js": "/weekanalysis/static/js/runtime-main.240316c1.js",
     "runtime-main.js.map": "/weekanalysis/static/js/runtime-main.240316c1.js.map",
     "static/js/2.9bbea4ab.chunk.js": "/weekanalysis/static/js/2.9bbea4ab.chunk.js",
@@ -21,6 +21,6 @@
     "static/js/runtime-main.240316c1.js",
     "static/js/2.9bbea4ab.chunk.js",
     "static/css/main.4ada5404.chunk.css",
-    "static/js/main.74517763.chunk.js"
+    "static/js/main.1e61c607.chunk.js"
   ]
 }
