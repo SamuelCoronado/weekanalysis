@@ -11,6 +11,16 @@ function Hours({statsData}){
           {
             statsData() 
           }
+          <div class="hours-container__item">
+          <h3>Total</h3>
+          <div class="hours-container__item-bar">
+            <div class="meter">
+              <span style={{width: `100%`}}></span>
+              <p className="percentage">{100}%</p> 
+            </div>
+            <h3>168 horas</h3>
+          </div>
+        </div>
         </div>
       </div>
     )
